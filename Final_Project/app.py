@@ -4,18 +4,21 @@ from datetime import date
 import joblib
 import pandas as pd
 import streamlit as st
+from pathlib import Path
+
+BASE = Path(__file__).parent
 
 st.set_page_config(page_title="India Air Quality – RSPM Predictor", page_icon="🌫️", layout="centered")
 
 
 @st.cache_resource
 def load_model():
-    return joblib.load("rspm_model.pkl")          # Pipeline = preprocessing + XGBoost
+    return joblib.load(BASE / "models" / "rspm_model.pkl")          # Pipeline = preprocessing + XGBoost
 
 
 @st.cache_data
 def load_meta():
-    with open("app_metadata.json", encoding="utf-8") as f:
+    with open(BASE / "app_metadata.json", encoding="utf-8") as f:
         return json.load(f)
 
 

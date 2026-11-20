@@ -1,0 +1,1564 @@
+{
+ "states": {
+  "Andhra Pradesh": {
+   "Ananthapur": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Kamalanagar, Ananthapur",
+    "type": "Residential"
+   },
+   "Chittoor": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "GNC Toll Gate Tirumala , Chittoor Dist.",
+    "type": "Sensitive"
+   },
+   "Eluru": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "ASRAM Diagnostic Center, Eluru",
+    "type": "Residential"
+   },
+   "Guntur": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Near Hindu College, Market Road, Guntur",
+    "type": "Residential"
+   },
+   "Hyderabad": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "C.I.T.D. Balanagar",
+    "type": "Residential"
+   },
+   "Kadapa": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Near ICL Industries, Yerrangunta, Kadapa District",
+    "type": "Industrial"
+   },
+   "Kakinada": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Top of the Office Building Ramanayyapeta, Kakinada",
+    "type": "Residential"
+   },
+   "Karimnagar": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "DIC Building, Karimnagar",
+    "type": "Residential"
+   },
+   "Khammam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "CER Club,S.C.C.L. township, writter basti, Kothagudem, Khammam Dist.",
+    "type": "Residential"
+   },
+   "Kurnool": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Mourya Inn, Kurnool",
+    "type": "Residential"
+   },
+   "Nalgonda": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Beside Regional Office, APPCB Nalgonda",
+    "type": "Residential"
+   },
+   "Nellore": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Venkatareddy nagar, Vedayapalem, Nellore",
+    "type": "Residential"
+   },
+   "Nizamabad": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Nizamabad Town",
+    "type": "Residential"
+   },
+   "Ongole": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Near Court Centre, Ongole, Parkasam District",
+    "type": "Residential"
+   },
+   "Patancheru": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Police Station, Medak, Patencheru",
+    "type": "Residential"
+   },
+   "Rajahmundry": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Staff Club Building, M/s A.P. Paper Mill, Rajahmundry",
+    "type": "Industrial"
+   },
+   "Ramagundam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "RTC Bus Depot, Karim Nagar, Ramagundam",
+    "type": "Residential"
+   },
+   "Sangareddy": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Muncipal office, Sangareddy",
+    "type": "Residential"
+   },
+   "Srikakulam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "IDA, Pydibheemavaram, Srikakulam",
+    "type": "Industrial"
+   },
+   "Tirupati": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Regional Science Centre, Chittoor Bypass Road, Tirupati",
+    "type": "Sensitive"
+   },
+   "Vijayawada": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Benz Circle, Vijayawada",
+    "type": "Residential"
+   },
+   "Visakhapatnam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Police Barracks, Visakhapatnam",
+    "type": "Residential"
+   },
+   "Vizianagaram": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Industrial Growth Centre, Bobbili, Vizianagaram",
+    "type": "Industrial"
+   },
+   "Warangal": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "KUDA Office, Hanumakonda, Warangal Dist.",
+    "type": "Residential"
+   }
+  },
+  "Arunachal Pradesh": {
+   "Itanagar": {
+    "agency": "Arunachal Pradesh State Pollution Control Board",
+    "station": "Compound of PCCF's Office building",
+    "type": "Residential"
+   },
+   "Naharlagun": {
+    "agency": "Arunachal Pradesh State Pollution Control Board",
+    "station": "Compound of APSPCB office building",
+    "type": "Residential"
+   }
+  },
+  "Assam": {
+   "Bongaigaon": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Campus of Oil India Ltd. PS-6, Bongaigaon, Chirang",
+    "type": "Residential"
+   },
+   "Daranga": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Daranga, Baska district, BATAD,Assam near Sandoop Jhankar town of Bhutan",
+    "type": "Residential"
+   },
+   "Dibrugarh": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Dibrugarh Office Building, Dibrugarh",
+    "type": "Residential"
+   },
+   "Golaghat": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Golaghat Office Building, Golaghat",
+    "type": "Residential"
+   },
+   "Guwahati": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Head Office, Bamunimaidan, Guwahati",
+    "type": "Residential"
+   },
+   "Hailakandi": {
+    "agency": null,
+    "station": "CISF Campus",
+    "type": "Residential"
+   },
+   "Lakhimpur": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Bazar Patti, North Lakhimpur Town,Lakhimpur, Assam",
+    "type": "Residential"
+   },
+   "Margherita": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Coal India Office Complex, Margherita,Tinsukia,Assam",
+    "type": "Residential"
+   },
+   "Nagaon": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Water Resources Division Office Campus, Christian Patty, near Nagaon College",
+    "type": "Residential"
+   },
+   "Nalbari": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Campus of PWD Rural Division, near Gordon Boy's GS School, Dist- Nalbari",
+    "type": "Residential"
+   },
+   "Sibsagar": {
+    "agency": null,
+    "station": "Sibasagar Off. Bldg",
+    "type": "Residential"
+   },
+   "Silchar": {
+    "agency": null,
+    "station": "Office Building RLO",
+    "type": "Residential"
+   },
+   "Silcher": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Office building of RLO, near Ithkola Market, Ghaniwala road",
+    "type": "Residential"
+   },
+   "Sivasagar": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "ONGC Colony, Sivasagar",
+    "type": "Residential"
+   },
+   "Tezpur": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Tezpur Office Building, Tezpur",
+    "type": "Residential"
+   },
+   "Tinsukia": {
+    "agency": "Assam State Pollution Control Board",
+    "station": "Digboi Carbon Factory Campus, Borguri, Tinsukia",
+    "type": "Residential"
+   }
+  },
+  "Bihar": {
+   "Patna": {
+    "agency": "Bihar Sate Pollution Control Board",
+    "station": "Beltron Bhawan",
+    "type": "Residential"
+   }
+  },
+  "Chandigarh": {
+   "Chandigarh": {
+    "agency": "Chandigarh Pollution Control Committee",
+    "station": "Sector-17 C, Chandigarh",
+    "type": "Residential"
+   }
+  },
+  "Chhattisgarh": {
+   "Bhilai": {
+    "agency": "Chattisgarh Environment Conservation Board",
+    "station": "M.P. Laghu Udyog Nigam, Bhilai",
+    "type": "Residential"
+   },
+   "Bhilai Nagar": {
+    "agency": null,
+    "station": "M.P.L.U. Nigam",
+    "type": "Residential"
+   },
+   "Bilaspur": {
+    "agency": "Chattisgarh Environment Conservation Board",
+    "station": "Regional Office, CECB Vyapar Vihar, Bilashpur",
+    "type": "Residential"
+   },
+   "Korba": {
+    "agency": "Chattisgarh Environment Conservation Board",
+    "station": "Pragati Nagar NTPC Colony, Korba",
+    "type": "Residential"
+   },
+   "Raipur": {
+    "agency": "Chattisgarh Environment Conservation Board",
+    "station": "Wool Worth I.Pvt.Ltd",
+    "type": "Residential"
+   }
+  },
+  "Dadra & Nagar Haveli": {
+   "Khadoli": {
+    "agency": "Daman Diu, Dadra & Nagar Heveli Pollution Control Committee",
+    "station": "Khadoli Industrial Area, Village- Khadoli, Silvassa",
+    "type": "Industrial"
+   },
+   "Silvassa": {
+    "agency": null,
+    "station": "Khadoli Ind. Area",
+    "type": "Industrial"
+   }
+  },
+  "Daman & Diu": {
+   "Daman": {
+    "agency": "Daman Diu, Dadra & Nagar Heveli Pollution Control Committee",
+    "station": "Kadaiya Ind. Area",
+    "type": "Industrial"
+   }
+  },
+  "Delhi": {
+   "Delhi": {
+    "agency": "Central Pollution Control Board",
+    "station": "N.Y. SCHOOL, Sarojini Nagar, Delhi",
+    "type": "Residential"
+   }
+  },
+  "Goa": {
+   "Amona": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Amona, Goa",
+    "type": "Residential"
+   },
+   "Assanora": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Assanora Junction, Goa",
+    "type": "Residential"
+   },
+   "Bicholim": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Bicholim, Goa",
+    "type": "Residential"
+   },
+   "Codli": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Codli Tisk, Goa",
+    "type": "Residential"
+   },
+   "Cuncolim": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Cuncolim Industrial Estate",
+    "type": "Industrial"
+   },
+   "Curchorem": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Curchorem, Goa",
+    "type": "Residential"
+   },
+   "Honda": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Honda Junction, Goa",
+    "type": "Residential"
+   },
+   "Kundaim": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Kundaim Industrial Estate",
+    "type": "Industrial"
+   },
+   "Mapusa": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Mapusa Town",
+    "type": "Residential"
+   },
+   "Margao": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Margao Town",
+    "type": "Residential"
+   },
+   "Mormugao": {
+    "agency": null,
+    "station": "Mormugao Port Trust",
+    "type": "Industrial"
+   },
+   "Panaji": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Infront of Old GSPCB premises, Patto, Panaji, Goa",
+    "type": "Residential"
+   },
+   "Panjim": {
+    "agency": "Goa Pollution Control Board",
+    "station": null,
+    "type": null
+   },
+   "Ponda": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Ponda Town",
+    "type": "Residential"
+   },
+   "Sanguem": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Near Railway Station at Kalem, Sanguem",
+    "type": "Residential"
+   },
+   "Tilamol": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Quepem, Tilamol",
+    "type": "Residential"
+   },
+   "Usgao": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "Usgao Plae, Junction",
+    "type": "Residential"
+   },
+   "Vasco": {
+    "agency": "Goa State Pollution Control Board",
+    "station": "On the roof of Fuse Call Office of Elec. Dept.,Vasco, Goa",
+    "type": "Industrial"
+   }
+  },
+  "Gujarat": {
+   "ANKLESHWAR": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Panoli Ind.Asso. & Emergency Response Centre,Plot-913/10-20, GIDC, Panoli,ANKLESHWAR",
+    "type": "Residential"
+   },
+   "Ahmedabad": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Naroda, G.I.D.C., Ahmadabad",
+    "type": "Residential"
+   },
+   "Ankleshwar": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Rallis India Ltd. Ankaleshwar",
+    "type": "Industrial"
+   },
+   "Anklesvar": {
+    "agency": null,
+    "station": "Durga Traders",
+    "type": "Residential"
+   },
+   "Baroda": {
+    "agency": "Gujarat Pollution Control Board",
+    "station": "Nyaymandir",
+    "type": "Residential"
+   },
+   "Bharuch": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Dahez SEZ Part II Office,Bharuch",
+    "type": "Residential"
+   },
+   "Bhuj": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Amrut Chambers, Baroi Road, Mundra, Kutch,Bhuj",
+    "type": "Residential"
+   },
+   "Jamnagar": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Fisheries Office, Jamnagar.",
+    "type": "Residential"
+   },
+   "MORBI": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Eagle sanatory wares, Vill-Jambudiya,MORBI",
+    "type": "Residential"
+   },
+   "Rajkot": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Sardhara Industrial Corporation, Rajkot",
+    "type": "Industrial"
+   },
+   "SANAND": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Zydas Infratech-Pharmez matoda GIDC NH-8A, Changodar,SANAND",
+    "type": "Residential"
+   },
+   "Sarigam": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Tristar Intermediate, Unit-II, Plot no-3321,GIDC Sarigam,Sarigam",
+    "type": "Residential"
+   },
+   "Surat": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "B.R.C. High School, Udhna, Surat",
+    "type": "Residential"
+   },
+   "VAPI": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "Yasho Industries Phase-III, GIDC,VAPI",
+    "type": "Residential"
+   },
+   "Vadodara": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "GPCB Office, Geri Vasahat, Vadodara",
+    "type": "Residential"
+   },
+   "Vapi": {
+    "agency": "Gujarat State Pollution Control Board",
+    "station": "GEB, IIIrd Phase, GIDC, Vapi",
+    "type": "Industrial"
+   }
+  },
+  "Haryana": {
+   "Faridabad": {
+    "agency": "Haryana State Pollution Control Board",
+    "station": "Regional Office, Haryana State Pollution Control Board",
+    "type": "Residential"
+   },
+   "Hisar": {
+    "agency": "Haryana State Pollution Control Board",
+    "station": "Guru Jambeshwar Uni",
+    "type": "Residential"
+   },
+   "Yamuna Nagar": {
+    "agency": "Haryana State Pollution Control Board",
+    "station": "Ballarpur Industries, Yamunanagar",
+    "type": "Industrial"
+   },
+   "Yamunanagar": {
+    "agency": null,
+    "station": "Ballarpur Industries",
+    "type": "Industrial"
+   }
+  },
+  "Himachal Pradesh": {
+   "Baddi": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Housing Board",
+    "type": "Industrial"
+   },
+   "Damtal": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Regional Office, Damtal",
+    "type": "Residential"
+   },
+   "Dharamshala": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Kotwali Bazar Dharamshala",
+    "type": "Residential"
+   },
+   "Kala Amb": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Kala Amb Town",
+    "type": "Residential"
+   },
+   "Manali": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Nehru Park, Manali, District Kullu",
+    "type": "Residential"
+   },
+   "Nahan": {
+    "agency": null,
+    "station": "Trilok Pur",
+    "type": "Residential"
+   },
+   "Nalagarh": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Municipal Council  MC",
+    "type": "Residential"
+   },
+   "Paonta Sahib": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Paonta Sahib",
+    "type": "Industrial"
+   },
+   "Parwanoo": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Regional Office, Sector- 4, Parwanoo",
+    "type": "Residential"
+   },
+   "Shimla": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Tekka Bench Ridge, Simla",
+    "type": "Sensitive"
+   },
+   "Sunder Nagar": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Regional Laboratory, HPSPCB, BBMB Colony, Sunder Nagar, Distt. Mandi",
+    "type": "Residential"
+   },
+   "Una": {
+    "agency": "Himachal Pradesh State Environment Proection & Pollution Control Board",
+    "station": "Regional Office, Una",
+    "type": "Residential"
+   }
+  },
+  "Jammu & Kashmir": {
+   "Jammu": {
+    "agency": "Jammu & Kashmir State Pollution Control Board",
+    "station": "Regional Office, Jammu",
+    "type": "Residential"
+   }
+  },
+  "Jharkhand": {
+   "Dhanbad": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "R.O. Dhanbad",
+    "type": "Residential"
+   },
+   "Jamshedpur": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "Bistupur Vehical Testing Centre, Jamshedpur",
+    "type": "Industrial"
+   },
+   "Jharia": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "M.A.D.A., Jharia",
+    "type": "Industrial"
+   },
+   "Ranchi": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "Albert Ekka Chowk, Main Road, Ranchi",
+    "type": "Residential"
+   },
+   "Saraikela Kharsawan": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "RO Building, Adityapur, Dist- Saraikela Kharsawan",
+    "type": "Residential"
+   },
+   "Sindri": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "BIT, Sindri",
+    "type": "Industrial"
+   },
+   "West Singhbhum": {
+    "agency": "Jharkhand State Pollution Control Board",
+    "station": "Barajamda, Taurian Guest House, Dist- West Singhbhum",
+    "type": "Industrial"
+   }
+  },
+  "Karnataka": {
+   "Bangalore": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "AMCO Batteries, Mysore Road, Bangalore",
+    "type": "Industrial"
+   },
+   "Belgaum": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Karnataka SPCB",
+    "type": "Industrial"
+   },
+   "Bidar": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Bidar",
+    "type": "Residential"
+   },
+   "Bijapur": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Bijapur",
+    "type": "Residential"
+   },
+   "Chitradurga": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Chitradurga",
+    "type": "Residential"
+   },
+   "Davangere": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Mothi Talkies P.B. Road, Devengere",
+    "type": "Residential"
+   },
+   "Dharwad": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Lakkamanahalli Industrial Area, Dharwar",
+    "type": "Industrial"
+   },
+   "Domlur": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Vittal Medi health Care Pvt Ltd, Domlur",
+    "type": "Residential"
+   },
+   "Gulbarga": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Govt. Hospital",
+    "type": "Residential"
+   },
+   "Hassan": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "N.R. Circle",
+    "type": "Residential"
+   },
+   "Hubli": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Rani Chennamma Circle, Hubli",
+    "type": "Residential"
+   },
+   "Hubli-Dharwad": {
+    "agency": null,
+    "station": "Rani C. Circle",
+    "type": "Residential"
+   },
+   "Kolar": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Kolar",
+    "type": "Residential"
+   },
+   "Mandya": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Mandya",
+    "type": "Residential"
+   },
+   "Mangalore": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Stides Premises, Baikampady Industrial Area, Mangalore",
+    "type": "Industrial"
+   },
+   "Mysore": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "K.R.Circle, Visvesvaraya Bldg., Mysore",
+    "type": "Industrial"
+   },
+   "Raichur": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "KSPCB Office Premises, Raichur",
+    "type": "Residential"
+   },
+   "Ranebennur": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "HPF Ltd., Water intake well, Ranebennur",
+    "type": "Industrial"
+   },
+   "Shimoga": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "The VISL, Oxygen Plant, Shimoga",
+    "type": "Industrial"
+   },
+   "Tumkur": {
+    "agency": "Karnataka State Pollution Control Board",
+    "station": "Tumkur University, Tumkur",
+    "type": "Residential"
+   }
+  },
+  "Kerala": {
+   "Alappuzha": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "District Office, Alissery Road, Alappuzha",
+    "type": "Residential"
+   },
+   "Kochi": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Ernakulum South, Kochi",
+    "type": "Residential"
+   },
+   "Kollam": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "KSPCB, District Office, Kadappakada, Kollam",
+    "type": "Residential"
+   },
+   "Kottayam": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Kottayam",
+    "type": "Residential"
+   },
+   "Kozhikode": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Nallalam, Kozhikode",
+    "type": "Residential"
+   },
+   "Malappuram": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Kakkanchery, near KINFRA, Malappuram",
+    "type": "Industrial"
+   },
+   "Palakkad": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "M/S Carborandum Universal Ltd. P.B. NO. 1, KanjIkode West P.O. Palakad",
+    "type": "Industrial"
+   },
+   "Pathanamthitta": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Near District Office KSPCB, Makkamkunnu, Pathanamthitta",
+    "type": "Residential"
+   },
+   "Thiruvananthapuram": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "SMV School, Thiruvananthapuram",
+    "type": "Residential"
+   },
+   "Thissur": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "KSPCB, District Office, Poonkunnam, Thrissur",
+    "type": "Residential"
+   },
+   "Trivandrum": {
+    "agency": null,
+    "station": "PRS Hospital",
+    "type": "Residential"
+   },
+   "Wayanad": {
+    "agency": "Kerala State Pollution Control Board",
+    "station": "Sulthan Bathery, Wayanad",
+    "type": "Sensitive"
+   }
+  },
+  "Madhya Pradesh": {
+   "Amlai": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "OPM",
+    "type": "Industrial"
+   },
+   "Bhopal": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Hamidia Road, M.P. Hastshilp Vikas Nigam, Bhopal",
+    "type": "Residential"
+   },
+   "Chhindwara": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Hindustan Unileaver, Narsinghpur Road",
+    "type": "Industrial"
+   },
+   "Dewas": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Dewas Metal Section, Dewas",
+    "type": "Residential"
+   },
+   "Gwalior": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Maharaj Bada, Gwalior",
+    "type": "Residential"
+   },
+   "Indore": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Telephone Nagar, 26 A, Kanadia Road Indore",
+    "type": "Residential"
+   },
+   "Jabalpur": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Vijay Nagar, Jabalpur",
+    "type": "Residential"
+   },
+   "Khajuraho": {
+    "agency": null,
+    "station": "Near Arch. Museum",
+    "type": "Residential"
+   },
+   "Nagda": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Grasim Kalyan Kendra, Nagda",
+    "type": "Residential"
+   },
+   "Pithampur": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Vikas Bhavan, Sector-2, Ind. Area, Pithampur",
+    "type": "Industrial"
+   },
+   "Sagar": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Pt.Deendayal Nagar, Housing Board Colony, Sagar",
+    "type": "Residential"
+   },
+   "Satna": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "Regional Office",
+    "type": "Residential"
+   },
+   "Singrauli": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "N.T.P.C., Vidyanagar",
+    "type": "Residential"
+   },
+   "Ujjain": {
+    "agency": "Madhya Pradesh State Pollution Control Board",
+    "station": "District Office, Ujjain",
+    "type": "Residential"
+   }
+  },
+  "Maharashtra": {
+   "Akola": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "College Of Engineering and Technology, Akola",
+    "type": "Residential"
+   },
+   "Amravati": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Rajkamal Square, Family Planning Centre Building of Vaneeta Samaj, Dts Amravati",
+    "type": "Residential"
+   },
+   "Aurangabad": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "S.B.E.S. College, Aurangabad",
+    "type": "Residential"
+   },
+   "Aurangabad (MS)": {
+    "agency": null,
+    "station": "Bibi-Ka-Maqbara",
+    "type": "Residential"
+   },
+   "Badlapur": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "BIWA House, Badlapur",
+    "type": "Industrial"
+   },
+   "Chandrapur": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Nagar Parishad, Chandrapur",
+    "type": "Residential"
+   },
+   "Dombivli": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Ambernath Municipal Council Office, Ambernath",
+    "type": "Industrial"
+   },
+   "Greater Mumbai": {
+    "agency": null,
+    "station": "Dombivalli MIDC",
+    "type": "Industrial"
+   },
+   "Jalgaon": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "MIDC Office, Jalgaon",
+    "type": "Residential"
+   },
+   "Jalna": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Bachat Bhawan, Near S P Office, Jalna",
+    "type": "Residential"
+   },
+   "Kolhapur": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Mahadwar Road, Near Mahalaxmi Temple, Kolhapur",
+    "type": "Residential"
+   },
+   "Latur": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Shyamnagar, Terrence of Keshavraj Vidyalaya, Latur",
+    "type": "Residential"
+   },
+   "Lote": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Pump House, CETP, Lote",
+    "type": "Industrial"
+   },
+   "Mahad": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Terrace of water treatment plant, Bhirwadi, Mahad",
+    "type": "Residential"
+   },
+   "Mumbai": {
+    "agency": "National Environmental Engineering Research Institute",
+    "station": "Worli, Mumbai",
+    "type": "Residential"
+   },
+   "Nagpur": {
+    "agency": "Visveshwaraya National Institute Of Technology",
+    "station": "MPCB Office Premises, Civil Lines, Nagpur",
+    "type": "Residential"
+   },
+   "Nanded": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Industrial Area, MIDC, CIDCO, Nanded",
+    "type": "Residential"
+   },
+   "Nashik": {
+    "agency": "K.R.T.Arts,B.H.Commerce and A.M. Science College",
+    "station": "MPCB Sub R.O. Udyog Bhawan, Nashik",
+    "type": "Residential"
+   },
+   "Navi Mumbai": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Terrace of Dr. D.Y. Patil College, Nerul, TTC Navi Mumbai",
+    "type": "Residential"
+   },
+   "Pune": {
+    "agency": "University of Pune",
+    "station": "Bank of Baroda Building, Near Pimpri-Chinchwad M.C. Building",
+    "type": "Residential"
+   },
+   "Roha": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Terrace of Roha Industrial Association office, Roha",
+    "type": "Industrial"
+   },
+   "Sangli": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Krishna Valley School, Sangli",
+    "type": "Residential"
+   },
+   "Solapur": {
+    "agency": "Walchand Institute of Technology, Solapur",
+    "station": "WIT Campus, Solapur",
+    "type": "Residential"
+   },
+   "Tarapur": {
+    "agency": null,
+    "station": "MIDC Office Compound",
+    "type": "Industrial"
+   },
+   "Thane": {
+    "agency": "Thane Municipal Corporation",
+    "station": "Terrace Of Shahu Market,Naupada, Thane West",
+    "type": "Residential"
+   },
+   "Ulhasnagar": {
+    "agency": "Maharashtra State Pollution Control Board",
+    "station": "Smt. C. H. M. College Campus, Ulhasnagar",
+    "type": "Residential"
+   }
+  },
+  "Manipur": {
+   "Imphal": {
+    "agency": null,
+    "station": "Secretariat Building",
+    "type": "Residential"
+   }
+  },
+  "Meghalaya": {
+   "Byrnihat": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Export Promotion Industrial Park (EPIP). Byrnihat,Ri-Bhoi dist Meghalaya",
+    "type": "Industrial"
+   },
+   "Dawki": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Terrace building, Dawki, Jaintia Hills District, Meghalaya",
+    "type": "Residential"
+   },
+   "Khliehriat": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Office Premises of the O/o BDO, C & RD Block, Khliehriat",
+    "type": "Residential"
+   },
+   "Nongstoin": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Office Premises of the O/o SDO, PHED, Nongstoin",
+    "type": "Residential"
+   },
+   "Shillong": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "State Tuberculosis Hospital, Shillong",
+    "type": "Residential"
+   },
+   "Tura": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Office building of Add Chief Engineer,PHED, Araimille, Tura West Garo Hills District",
+    "type": "Residential"
+   },
+   "Umsning": {
+    "agency": "Meghalaya State Pollution Control Board",
+    "station": "Umiam Industrial Complex, Ri-Bhoi District",
+    "type": "Industrial"
+   }
+  },
+  "Mizoram": {
+   "Aizawl": {
+    "agency": "Mizoram State Pollution Control Board",
+    "station": "Bawngkawn , Roof  Top of  Mr.K.L. Beremas residence.",
+    "type": "Residential"
+   },
+   "Champhai": {
+    "agency": "Mizoram State Pollution Control Board",
+    "station": "Lalzidinga building, Champhai Vengthlang, Champhai",
+    "type": "Residential"
+   },
+   "Kolasib": {
+    "agency": "Mizoram State Pollution Control Board",
+    "station": "H. Lalthuama Building, Near D.C. Office, Project Veng, Kolasib",
+    "type": "Residential"
+   },
+   "Lunglei": {
+    "agency": "Mizoram State Pollution Control Board",
+    "station": "K.Lalliantluanga, Chanmari I, Lunglei",
+    "type": "Residential"
+   }
+  },
+  "Nagaland": {
+   "Dimapur": {
+    "agency": "Nagaland State Pollution Control Board",
+    "station": "Bank Colony",
+    "type": "Residential"
+   },
+   "Kohima": {
+    "agency": "Nagaland State Pollution Control Board",
+    "station": "Opposite NST Office, Kohima",
+    "type": "Residential"
+   }
+  },
+  "Odisha": {
+   "Angul": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "NALCO Township, Angul",
+    "type": "Industrial"
+   },
+   "Balasore": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Sahadevkhunta, Balasore",
+    "type": "Residential"
+   },
+   "Berhampur": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Regional Office",
+    "type": "Residential"
+   },
+   "Bhubaneshwar": {
+    "agency": null,
+    "station": "OSPCB Bldg",
+    "type": "Residential"
+   },
+   "Bhubaneswar": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "SPCB Building, Bhubaneshwar",
+    "type": "Residential"
+   },
+   "Cuttack": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Badambi, Cuttack",
+    "type": "Residential"
+   },
+   "Kalinga Nagar": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Roof of maintenance Office of M/s NINL, Duburi",
+    "type": "Industrial"
+   },
+   "Keonjhar": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Regional Office, Keonjhar",
+    "type": "Residential"
+   },
+   "Konark": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Konark police station, Konark",
+    "type": "Residential"
+   },
+   "Paradeep": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Over the STP of M/s IFFCO Ltd.",
+    "type": "Residential"
+   },
+   "Puri": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Sadar Police Station, Puri",
+    "type": "Residential"
+   },
+   "Rayagada": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Regional Office Orissa SPCB, Rayagada",
+    "type": "Residential"
+   },
+   "Rourkela": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "Regional Office, ORPB, Rourkela",
+    "type": "Residential"
+   },
+   "Sambalpur": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "PHD Ofice, Sambalpur",
+    "type": "Residential"
+   },
+   "Talcher": {
+    "agency": "Odisha State Pollution Control Board",
+    "station": "T.T.P.S.Colony, Talcher",
+    "type": "Industrial"
+   }
+  },
+  "Puducherry": {
+   "Karaikal": {
+    "agency": "Puducherry Pollution Conrol Committee",
+    "station": "Govt. Tourist Home, Kovilpathu, Karaikal",
+    "type": "Residential"
+   },
+   "Pondicherry": {
+    "agency": "Puducherry Pollution Conrol Committee",
+    "station": "DSTC Office Upstairs, PHB 3rd Floor, AnnaNagar. Pondicherry-5.",
+    "type": "Residential"
+   }
+  },
+  "Punjab": {
+   "Amritsar": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Nagina Soap Factory, Batala Road, Amritsar",
+    "type": "Industrial"
+   },
+   "Bathinda": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "M/s Bathinda Dist Coop Milk Producers Union Ltd., Dabwali Road, Bathinda",
+    "type": "Industrial"
+   },
+   "Dera Baba": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "C-PYTE Building at Dera Baba Nanak",
+    "type": "Residential"
+   },
+   "Dera Bassi": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "M/s Punjab Chemicals and Crop Protection Ltd., Bhanakarpur Road, Derabassi",
+    "type": "Industrial"
+   },
+   "Faridkot": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Gurudwara Guru ki Dhab, Jaitu Kotkapura Road, Village Guru Ki Dhab",
+    "type": "Residential"
+   },
+   "Gobindgarh": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "M/s Raj Steel Rolling Mills, Mandi Gobindgarh",
+    "type": "Residential"
+   },
+   "Hoshiarpur": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Govt. Senior Sec. School, Mukandpur, Nawashahar, Shahid Bhagat Singh Nagar",
+    "type": "Residential"
+   },
+   "Jalandhar": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Regional Office",
+    "type": "Residential"
+   },
+   "Khanna": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "AS School, Khanna",
+    "type": "Industrial"
+   },
+   "Ludhiana": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "PPCB Office Building, Ludhiana",
+    "type": "Industrial"
+   },
+   "Naya Nangal": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "M/s Punjab Alkalis & Chemicals Ltd., Naya Nangal",
+    "type": "Residential"
+   },
+   "Patiala": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Fire Brigade Station, Bahera Road, Patiala",
+    "type": "Residential"
+   },
+   "Sangrur": {
+    "agency": "Punjab State Pollution Control Board",
+    "station": "Gurudwara Gangsar Sahib Village Kilabharian, District Sangrur",
+    "type": "Residential"
+   }
+  },
+  "Rajasthan": {
+   "Alwar": {
+    "agency": "Rajasthan State Pollution Control Board",
+    "station": "Regional Office, Rajasthan State Pollution Control Board, Alwar",
+    "type": "Industrial"
+   },
+   "Jaipur": {
+    "agency": "Rajasthan State Pollution Control Board",
+    "station": "Ajmeri Gate,Jaipur",
+    "type": "Residential"
+   },
+   "Jodhpur": {
+    "agency": "Rajasthan State Pollution Control Board",
+    "station": "Basni Industrial Area, RIICO Office, Jodhpur",
+    "type": "Residential"
+   },
+   "Kota": {
+    "agency": "Rajasthan State Pollution Control Board",
+    "station": "Samcore Glass Ltd., Kota",
+    "type": "Residential"
+   },
+   "Udaipur": {
+    "agency": "Rajasthan State Pollution Control Board",
+    "station": "Town Hall,Udaipur",
+    "type": "Residential"
+   }
+  },
+  "Sikkim": {
+   "Gangtok": {
+    "agency": null,
+    "station": "White Hall Complex",
+    "type": "Residential"
+   }
+  },
+  "Tamil Nadu": {
+   "Chennai": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Govt. High School, Manali, Chennai.",
+    "type": "Industrial"
+   },
+   "Coimbatore": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Distt. Collector's Office, Coimbatore",
+    "type": "Residential"
+   },
+   "Cuddalore": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "SIPCOT Industrial Complex, Cuddalore",
+    "type": "Residential"
+   },
+   "Madurai": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Highway (Project -I) Building, Madurai",
+    "type": "Residential"
+   },
+   "Mettur": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "SIDCO Industrial Complex, Mettur",
+    "type": "Industrial"
+   },
+   "Salem": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Sowdeswari College Building, Salem",
+    "type": "Residential"
+   },
+   "Thoothukudi": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Fisheries College, Tuticorin",
+    "type": "Residential"
+   },
+   "Trichy": {
+    "agency": "Tamilnadu State Pollution Control Board",
+    "station": "Golden Rock, Trichy",
+    "type": "Residential"
+   }
+  },
+  "Telangana": {
+   "Hyderabad": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Industrial Association office, IDA, Jeedimetla",
+    "type": "Residential"
+   },
+   "Karimnagar": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "DIC Building, Karimnagar",
+    "type": "Residential"
+   },
+   "Khammam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "CER Club,S.C.C.L. township, writter basti, Kothagudem, Khammam Dist.",
+    "type": "Residential"
+   },
+   "Kothur": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Kothur, Mahaboobnagar District",
+    "type": "Industrial"
+   },
+   "Nalgonda": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Beside Regional Office, APPCB Nalgonda",
+    "type": "Residential"
+   },
+   "Patancheru": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "Police Station, Medak, Patencheru",
+    "type": "Residential"
+   },
+   "Ramagundam": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "RTC Bus Depot, Karim Nagar, Ramagundam",
+    "type": "Residential"
+   },
+   "Sangareddy": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "APIIC Building, IDA, Pashamylaram",
+    "type": "Industrial"
+   },
+   "Warangal": {
+    "agency": "Andhra Pradesh State Pollution Control Board",
+    "station": "KUDA Office, Hanumakonda, Warangal Dist.",
+    "type": "Residential"
+   }
+  },
+  "Uttar Pradesh": {
+   "Agra": {
+    "agency": "Central Pollution Control Board",
+    "station": "Taj Mahal",
+    "type": "Sensitive"
+   },
+   "Allahabad": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Bharat Yantra Nigam Ltd",
+    "type": "Residential"
+   },
+   "Anpara": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Anpara Colony, Sonabhadra, Anpara",
+    "type": "Industrial"
+   },
+   "Bareilly": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "IVRI Izatnagar, Bareilly",
+    "type": "Residential"
+   },
+   "Firozabad": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Center for Development of Glass Industry ( CDGI), Firozabad",
+    "type": "Residential"
+   },
+   "Gajraula": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Raunaq Auto Ltd, J.P. Nagar, Gajraula",
+    "type": "Industrial"
+   },
+   "Ghaziabad": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Bulandshaar Road Industrial Area, Ghaziabad",
+    "type": "Industrial"
+   },
+   "Gorakhpur": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "India Glycol Ltd. Gida, Gorakhpur",
+    "type": "Residential"
+   },
+   "Jhansi": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Veeranga Nagar, Jhansi",
+    "type": "Residential"
+   },
+   "Kanpur": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Forest & Training Centre, Kidwai Nagar, Kanpur",
+    "type": "Residential"
+   },
+   "Khurja": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Central Glass & Ceramic Research Institute (CGCRI),Khurja",
+    "type": "Industrial"
+   },
+   "Lucknow": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Talkatora, Lucknow",
+    "type": "Residential"
+   },
+   "Mathura": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "CETP, Industrial Area, Mathura",
+    "type": "Industrial"
+   },
+   "Meerut": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Begum Bridge, Meerut",
+    "type": "Residential"
+   },
+   "Moradabad": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Central Police Hospital, Police traning Centre, Civil Lines",
+    "type": "Residential"
+   },
+   "Noida": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Gee-Pee Electroplating and Engineering Works, NOIDA.",
+    "type": "Industrial"
+   },
+   "Rai Bareilly": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Ahmadnagar Town Hall Colony Gulab Road, Rai Bareilly",
+    "type": "Residential"
+   },
+   "Renusagar": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Renusagar Colony, Sonabhadra, Anpara",
+    "type": "Industrial"
+   },
+   "Saharanpur": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "UPCL S.E. Office, Near Clock Tower, Saharanpur",
+    "type": "Residential"
+   },
+   "Unnao": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "ICA Building, Industrial Area, Site 10, Unnao",
+    "type": "Industrial"
+   },
+   "Varanasi": {
+    "agency": "Uttar Pradesh State Pollution Control Board",
+    "station": "Regional Office, Jawahar Nagar, Varanasi.",
+    "type": "Residential"
+   }
+  },
+  "Uttarakhand": {
+   "Dehradun": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "Clock Tower, PWD Guest House, Dehradun",
+    "type": "Residential"
+   },
+   "Haldwani": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "Govt. Women Hospital, Haldwani",
+    "type": "Residential"
+   },
+   "Haridwar": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "SIDCUL, Haridwar",
+    "type": "Industrial"
+   },
+   "Kashipur": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "BSNL Office, Kashipur",
+    "type": "Residential"
+   },
+   "Rishikesh": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "Nagar Palika Parishad, Rishikesh",
+    "type": "Residential"
+   },
+   "Rudrapur": {
+    "agency": "Uttarakhand Environment Protection and Pollution Control Board",
+    "station": "Sidcul Office, Rudrapur",
+    "type": "Industrial"
+   }
+  },
+  "Uttaranchal": {
+   "Dehradun": {
+    "agency": null,
+    "station": "Clock Tower",
+    "type": "Residential"
+   }
+  },
+  "West Bengal": {
+   "Asansol": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Asansol M.C.",
+    "type": "Industrial"
+   },
+   "Barrackpore": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Barrackpore, Barrackpore",
+    "type": "Industrial"
+   },
+   "Baruipur": {
+    "agency": null,
+    "station": "Port Cannings",
+    "type": "Residential"
+   },
+   "Calcutta": {
+    "agency": "NEER",
+    "station": "CESE, Mandevitle Garden (Gariahat)",
+    "type": "Residential"
+   },
+   "DANKUNI": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Rooftop of old Mrigala Gram Panchayet Building,DANKUNI",
+    "type": "Residential"
+   },
+   "Durgapur": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "PCBL Club, Biddhanagar, Durgapur",
+    "type": "Industrial"
+   },
+   "Durgapur (WB)": {
+    "agency": null,
+    "station": "Kwality Hotel",
+    "type": "Industrial"
+   },
+   "HALDIA": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Rooftop of Ruchi Soya,HALDIA",
+    "type": "Residential"
+   },
+   "Haldia": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "WBIIDC, Haldia",
+    "type": "Industrial"
+   },
+   "Howrah": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Bator, Howrah",
+    "type": "Residential"
+   },
+   "Kalyani": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Rooftop of Kalyani Medical Hospital,Kalyani",
+    "type": "Residential"
+   },
+   "Kolkata": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Salt lake, Kolkata",
+    "type": "Residential"
+   },
+   "MALDAH": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Rooftop Maldah Regional Office, WBPCB,MALDAH",
+    "type": "Residential"
+   },
+   "Raniganj": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Jamuria, Raniganj",
+    "type": "Industrial"
+   },
+   "SILIGURI": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Rooftop of Siliguri Industrial Estate Development Association,SILIGURI",
+    "type": "Residential"
+   },
+   "Sankrail": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Dhulagarh, Sankrail",
+    "type": "Industrial"
+   },
+   "South Suburban": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Baruipur, South Suburban",
+    "type": "Residential"
+   },
+   "ULUBERIA": {
+    "agency": "West Bengal State Pollution Control Board",
+    "station": "Inside Rampal Industries,ULUBERIA",
+    "type": "Residential"
+   }
+  }
+ },
+ "types": [
+  "Industrial",
+  "Residential",
+  "Sensitive"
+ ],
+ "metrics": {
+  "R2": 0.7112033904010561,
+  "MAE": 23.47080717355326,
+  "RMSE": 35.32119907344294
+ },
+ "so2_median": 8.0,
+ "no2_median": 22.0
+}

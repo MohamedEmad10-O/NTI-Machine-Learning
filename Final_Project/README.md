@@ -1,3 +1,5 @@
+link:     https://india-air-quality-rspm.streamlit.app/
+
 # 🌫️ India Air Quality — RSPM (PM10) Prediction
 
 Regression project that predicts **RSPM** (Respirable Suspended Particulate Matter, µg/m³) from location, area type, date and other pollutants (SO₂, NO₂), using the CPCB *India Air Quality* dataset (1987–2015).
